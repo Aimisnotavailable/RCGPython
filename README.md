@@ -156,8 +156,6 @@ We welcome contributions to this course material. Here’s how you can contribut
 4. **Submit a Pull Request**
    Once you’re satisfied with your changes, submit a pull request (PR) with a clear description of what you’ve done.
 
-For more detailed guidelines, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
-
 ---
 
 ## License
